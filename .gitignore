@@ -17,6 +17,9 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+### 1. 깃허브에 반영 x
+application.properties
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
